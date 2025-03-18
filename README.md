@@ -35,10 +35,8 @@ El nombre del amigo secreto seleccionado aparecerá en la pantalla.
 
 Estructura del proyecto 📂
 
-├── assets/                  # Carpeta de recursos (imágenes, fuentes, etc.)
-│   ├── amigo-secreto.png    # Imagen representativa
-│   └── play_circle_outline.png # Ícono para sortear
-├── index.html               # Archivo principal HTML
-├── style.css                # Estilos CSS
-├── app.js                   # Lógica de la aplicación en JavaScript
-└── README.md                # Este archivo
+── assets       # Carpeta de recursos (imágenes)
+── index.html   # Archivo principal HTML
+── style.css    # Estilos CSS
+── app.js       # Lógica de la aplicación en JavaScript
+── README.md    # Este archivo
