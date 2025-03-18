@@ -1,6 +1,6 @@
 Amigo Secreto 🎁
 
-¡Bienvenido al proyecto Amigo Secreto! Esta es una aplicación web sencilla que permite a los usuarios agregar nombres de amigos a una lista y realizar un sorteo aleatorio para elegir un "amigo secreto". Es perfecto para organizar intercambios de regalos en eventos sociales.
+Esta es una aplicación web sencilla que permite a los usuarios agregar nombres de amigos a una lista y realizar un sorteo aleatorio para elegir un "amigo secreto". Es perfecto para organizar intercambios de regalos en eventos sociales.
 
 Características ✨
 Agregar nombres: Los usuarios pueden ingresar nombres de amigos en un campo de texto y agregarlos a una lista visible.
@@ -12,7 +12,7 @@ Instalación 🛠️
 Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 
 Clona el repositorio:
-git clone https://github.com/tu-usuario/amigo-secreto.git
+git clone https://github.com/Gixn18/Gixn18.github.io
 
 Navega al directorio del proyecto:
 cd amigo-secreto
@@ -35,8 +35,12 @@ El nombre del amigo secreto seleccionado aparecerá en la pantalla.
 
 Estructura del proyecto 📂
 
-── assets       # Carpeta de recursos (imágenes)
-── index.html   # Archivo principal HTML
-── style.css    # Estilos CSS
-── app.js       # Lógica de la aplicación en JavaScript
-── README.md    # Este archivo
+assets       # Carpeta de recursos (imágenes)
+
+index.html   # Archivo principal HTML
+
+style.css    # Estilos CSS
+
+app.js       # Lógica de la aplicación en JavaScript
+
+README.md    # Este archivo
